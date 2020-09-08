@@ -1,0 +1,3 @@
+user sisr5798_pakaraccess1
+password EHDSS8C4MZBI
+database sisr5798_pakargsr
